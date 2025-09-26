@@ -1,0 +1,4 @@
+- Ya está implementada la operación de Potencia.
+- Debes implementar la operación de Raíz Cuadrada.
+- Crear la función raizCuadrada() dentro de la clase Avanzadas.
+- Modificar main.py para probar también esta función.
